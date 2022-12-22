@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fractal", "Fractal.csproj", "{0C8BF933-8DC0-403C-9E47-14E8B277F16A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseNumbers", "..\ParseNumbers\ParseNumbers.csproj", "{3C74EAFD-5417-4BFC-9542-43FD164A0CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParseNumbers", "..\ParseNumbers\ParseNumbers.csproj", "{3C74EAFD-5417-4BFC-9542-43FD164A0CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsePoints", "..\ParsePoints\ParsePoints.csproj", "{F834671B-E651-4EA1-A1A9-A5ED2938AF92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3C74EAFD-5417-4BFC-9542-43FD164A0CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C74EAFD-5417-4BFC-9542-43FD164A0CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C74EAFD-5417-4BFC-9542-43FD164A0CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F834671B-E651-4EA1-A1A9-A5ED2938AF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F834671B-E651-4EA1-A1A9-A5ED2938AF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F834671B-E651-4EA1-A1A9-A5ED2938AF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F834671B-E651-4EA1-A1A9-A5ED2938AF92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
